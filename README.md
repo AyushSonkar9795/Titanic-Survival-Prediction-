@@ -1,1 +1,1 @@
-Welcome to the CODSOFT repository! This repository holds the work I did during my internship and serves as a record of my contributions, projects, and learning during this time. All of the finished task's code could possibly be found here.CODSOFT #
+Titanic survival prediction using machine learning is a popular task in the field of data science. The goal is to develop a model that can predict whether a passenger on the Titanic survived or not based on various features such as age, gender, passenger class, fare, and embarked port.
