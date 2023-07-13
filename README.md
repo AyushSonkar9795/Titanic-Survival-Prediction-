@@ -1,1 +1,1 @@
-# CodeSoft
+Welcome to the CODSOFT repository! This repository holds the work I did during my internship and serves as a record of my contributions, projects, and learning during this time. All of the finished task's code could possibly be found here.CODSOFT #
