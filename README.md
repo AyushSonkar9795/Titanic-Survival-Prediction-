@@ -1,4 +1,4 @@
-Titanic survival prediction using machine learning is a popular task in the field of data science. The goal is to develop a model that can predict whether a passenger on the Titanic survived or not based on various features such as age, gender, passenger class, fare, and embarked port.
+Task-1:Titanic survival prediction using machine learning is a popular task in the field of data science. The goal is to develop a model that can predict whether a passenger on the Titanic survived or not based on various features such as age, gender, passenger class, fare, and embarked port.
 Steps follows:
 1. Import the required libraries.
 2. Access a pandas DataFrame and load the dataset.
